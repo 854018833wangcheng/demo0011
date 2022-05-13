@@ -11,5 +11,6 @@ public class GitHubTest {
         System.out.println("Test---hot-fix");
         System.out.println("Test---master0002");
         System.out.println("Test--hot-fix02");
+        System.out.println("Test--gitHub--Test");
     }
 }
