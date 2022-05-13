@@ -8,5 +8,6 @@ public class GitHubTest {
     public static void main(String[] args) {
         System.out.println("Test---master");
         System.out.println("Test---master001");
+        System.out.println("Test---hot-fix");
     }
 }
