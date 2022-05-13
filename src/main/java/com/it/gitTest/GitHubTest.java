@@ -6,6 +6,7 @@ package com.it.gitTest;
  */
 public class GitHubTest {
     public static void main(String[] args) {
-        System.out.println("Test---mmaster");
+        System.out.println("Test---master");
+        System.out.println("Test---master001");
     }
 }
